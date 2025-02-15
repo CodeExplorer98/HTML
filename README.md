@@ -65,3 +65,85 @@
         </tr>
     </tbody>
 </table>
+        <td>PP - </td>
+        <td>Python Programming</td>
+   
+    <span style="float:right;">
+        <td>SRK: </td>
+        <td>Er. S. R. Kolte</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>PP - </td>
+        <td>Python Programming lab</td>
+   
+    <span style="float:right;">
+        <td>SRK: </td>
+        <td>Er. S. R. Kolte</td>
+    </span>
+    
+    <p style="text-align:left;">
+   
+        <td>CAO - </td>
+        <td>Computer Architecture and Organization</td>
+   
+    <span style="float:right;">
+        <td>DRN: </td>
+        <td>Er. D. B. Nimje</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>TOC - </td>
+        <td>Theory of Computation</td>
+    <span style="float:right;">
+        <td>PBA: </td>
+        <td>Er. P. B. Aher</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>AEC-ETC - </td>
+        <td>Ability Enhancement Course-Effective Technical Communication</td>
+    <span style="float:right;">
+        <td>PS: </td>
+        <td>Er. Padmaja Singh</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>EDM - </td>
+        <td>Entrepreneurship Development Management</td>
+    <span style="float:right;">
+        <td>AM: </td>
+        <td>Er. Avinash Mangle</td>
+    </span>
+     <p style="text-align:left;">
+   
+        <td>DTS - </td>
+        <td>Digital and Technological Solution</td>
+    <span style="float:right;">
+        <td>PVR: </td>
+        <td>Er. P. V. Rathod</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>CWS-I - </td>
+        <td>Computer Workshop - I</td>
+    <span style="float:right;">
+        <td>PBA: </td>
+        <td>Er. P. B. Aher</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>NPTEL - </td>
+        <td>NPTEL</td>
+    <span style="float:right;">
+        <td>SPT: </td>
+        <td>Er. S. P. Tete</td>
+    </span>
+    <p style="text-align:left;">
+   
+        <td>TE - </td>
+        <td>Technical Exposure</td>
+    <span style="float:right;">
+        <td>TSP: </td>
+        <td>Er. T. S. Palorkar</td>
+    </span>
